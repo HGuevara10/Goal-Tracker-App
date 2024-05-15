@@ -1,1 +1,1 @@
-Code for a daily goal trackng app. The app is coded using javascript and react native. It can be run on both ios and android. 
+Code for a daily goal trackng app. The app is coded using javascript and react native. It can be run on both ios and android. The main files which contain the app's code is App.js as well as GoalInput.js and GoalItem.js in the components folder.
